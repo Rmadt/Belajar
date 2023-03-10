@@ -1,0 +1,11 @@
+p {
+    font-size: 20px;
+}
+
+.style-paragraph {
+    font-size: 24px;
+}
+
+#style-paragraph-by-id {
+    text-decoration: underline;
+}
